@@ -9,13 +9,11 @@ App Name: GroT-Grocery Tracker
 
 Compatibility: Android 5.1 (Lollipop) and above (Tested on Android 10)
 
-Team Representative: A Rahul (2019A7PS1312H)
-
 Team Members: 
       Shaik Mohammed Shaquib (2019A7PS1325H)
       Pathan Muhammed Bilal (2019A7PS0149H)
       Mohammed Zia Ur Rahman (2019A7PS0133H)
-
+      A Rahul (2019A7PS1312H)
 
 
 
